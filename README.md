@@ -10,5 +10,5 @@ Jestli najdete chyby nebo vás napadá lepší překlad. Kontaktujte mě na Disc
 
 (je důležité správně soubory extrahovat a vložit, můžete se vést dle videa níže)
 
-![hippo](https://imgur.com/a/ZMvoTqm)
+![hippo]((https://i.imgur.com/UpFcRta.gif))
 5. Zapněte hru a vpravo dole vyberte češtinu
