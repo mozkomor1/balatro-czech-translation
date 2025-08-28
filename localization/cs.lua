@@ -78,7 +78,7 @@ return {
                     "Začni hru s",
                     "poukazem {C:tarot,T:v_crystal_ball}#1#{}",
                     "a {C:attention}2{} kopiemi",
-                    "karty{C:tarot,T:c_fool}Blázen",
+                    "karty {C:tarot,T:c_fool}Blázen",
                 },
             },
             b_nebula={
@@ -483,13 +483,13 @@ return {
             j_astronomer={
                 name="Astronom",
                 text={
-                    "Všechny {C:planet}Planetové{} karty a",
+                    "Všechny {C:planet}Planetární{} karty a",
                     "{C:planet}Nebeské Balíky{} v",
                     "obchodě jsou {C:attention}zdarma",
                 },
                 unlock={
                     "Objev každou",
-                    "{E:1,C:planet}Planetovou{} kartu",
+                    "{E:1,C:planet}Planetární{} kartu",
                 },
             },
             j_banner={
@@ -730,7 +730,7 @@ return {
                 text={
                     "Tento žolík získá",
                     "{X:mult,C:white} X#1# {} Násob kdykoliv je",
-                    "{C:planet}Planetová{} karta použita",
+                    "{C:planet}Planetární{} karta použita",
                     "{C:inactive}(Momentálně {X:mult,C:white} X#2# {C:inactive} Násob)",
                 },
             },
@@ -1373,7 +1373,7 @@ return {
             j_ring_master={
                 name="Showman",
                 text={
-                    "{C:attention}Žolíci{}, {C:tarot}Tarotové{}, {C:planet}Planetové{},",
+                    "{C:attention}Žolíci{}, {C:tarot}Tarotové{}, {C:planet}Planetární{},",
                     "a {C:spectral}Spektrální{} karty se mohou",
                     "objevit několikrát",
                 },
@@ -1414,7 +1414,7 @@ return {
                 name="Satelit",
                 text={
                     "Získej {C:money}$#1#{} na konci kola",
-                    "za každou unikátní {C:planet}Planetovou",
+                    "za každou unikátní {C:planet}Planetární",
                     "kartu použitou tuto hru",
                     "{C:inactive}(Momentálně {C:money}$#2#{C:inactive})",
                 },
@@ -1824,7 +1824,7 @@ return {
             blue_seal={
                 name="Modrá Pečeť",
                 text={
-                    "Vytvoří {C:planet}Planetovou{} kartu",
+                    "Vytvoří {C:planet}Planetární{} kartu",
                     "pro poslední hranou {C:attention}kombinaci{}",
                     "kola jestli je {C:attention}držena{} v ruce",
                     "{C:inactive}(Musí mít místo)",
@@ -2008,7 +2008,7 @@ return {
                 name="Velký Nebeský Balíček",
                 text={
                     "Vyber {C:attention}#1#{} z",
-                    "{C:attention}#2#{C:planet} Planetových{} karet",
+                    "{C:attention}#2#{C:planet} Planetárních{} karet",
                     "k okamžitému použítí",
                 },
             },
@@ -2016,7 +2016,7 @@ return {
                 name="Mega Nebeský Balíček",
                 text={
                     "Vyber {C:attention}#1#{} z",
-                    "{C:attention}#2#{C:planet} Planetových{} karet",
+                    "{C:attention}#2#{C:planet} Planetárních{} karet",
                     "k okamžitému použítí",
                 },
             },
@@ -2024,7 +2024,7 @@ return {
                 name="Nebeský Balíček",
                 text={
                     "Vyber {C:attention}#1#{} ze",
-                    "{C:attention}#2#{C:planet} Planetových{} karet",
+                    "{C:attention}#2#{C:planet} Planetárních{} karet",
                     "k okamžitému použítí",
                 },
             },
@@ -2761,7 +2761,7 @@ return {
                 name="Blázen",
                 text={
                     "Vytvoří poslední",
-                    "{C:tarot}Tarotovou{} nebo {C:planet}Planetovou{} kartu",
+                    "{C:tarot}Tarotovou{} nebo {C:planet}Planetární{} kartu",
                     "použitou tutu hru",
                     "{s:0.8}kromě {s:0.8,C:tarot}Blázna",
                 },
@@ -2791,7 +2791,7 @@ return {
                 name="Velekněžka",
                 text={
                     "Vytvoří až {C:attention}#1#",
-                    "náhodné {C:planet}Planetové{} karty",
+                    "náhodné {C:planet}Planetární{} karty",
                     "{C:inactive}(Musí mít místo)",
                 },
             },
@@ -3026,14 +3026,14 @@ return {
             v_observatory={
                 name="Observatoř",
                 text={
-                    "{C:planet}Planetové{} karty v prostoru pro",
+                    "{C:planet}Planetární{} karty v prostoru pro",
                     "{C:attention}spotřební karty{} dávají",
                     "{X:red,C:white} X#1# {} Násob pro",
                     "jejich specifiké {C:attention}kombinace",
                 },
                 unlock={
                     "Použij dohromady {C:attention}#1#",
-                    "{C:planet}Planetových{} karet z jakýkoliv",
+                    "{C:planet}Planetárních{} karet z jakýkoliv",
                     "{C:planet}Nebeských Baličků",
                     "{C:inactive}(#2#)",
                 },
@@ -3100,21 +3100,21 @@ return {
                 },
             },
             v_planet_merchant={
-                name="Planetový Obchodník",
+                name="Planetární Obchodník",
                 text={
-                    "{C:planet}Planetové{} karty v obchodě",
+                    "{C:planet}Planetární{} karty v obchodě",
                     "se objevují {C:attention}#1#X{} častěji",
                 },
             },
             v_planet_tycoon={
-                name="Planetový Magnát",
+                name="Planetární Magnát",
                 text={
-                    "{C:planet}Planetové{} karty v obchodě",
+                    "{C:planet}Planetární{} karty v obchodě",
                     "se objevují {C:attention}#1#X{} častěji",
                 },
                 unlock={
                     "Kup dohromady",
-                    "{C:attention}#1#{C:planet} Planetových{} karet",
+                    "{C:attention}#1#{C:planet} Planetárních{} karet",
                     "z obchodu",
                     "{C:inactive}(#2#)",
                 },
@@ -3194,7 +3194,7 @@ return {
                 name="Teleskop",
                 text={
                     "{C:attention}Nebeské Balíčky{} vždy",
-                    "obsahují {C:planet}Planetovou{} kartu",
+                    "obsahují {C:planet}Planetární{} kartu",
                     "pro tvoji nejhranější {C:attention}kombinaci",
                 },
             },
@@ -3385,7 +3385,7 @@ return {
             b_open="OTEVŘÍT",
             b_options="Možnosti",
             b_options_cap="MOŽNOSTI",
-            b_planet_cards="Planetové Karty",
+            b_planet_cards="Planetární Karty",
             b_play_cap="HRÁT",
             b_play_hand="Zahrát",
             b_playbalatro="Navštiv playbalatro.com",
