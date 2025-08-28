@@ -1260,7 +1260,7 @@ return {
                 },
             },
             j_oops={
-                name="Ups! Samé Šestky!",
+                name="Jejda! Samé 6",
                 text={
                     "Zdvojnásobí šance všech {C:attention}uvedených",
                     "{C:green,E:1,S:1.1}pravděpodobností",
@@ -1645,7 +1645,7 @@ return {
                 },
             },
             j_ticket={
-                name="Zlatý Kůpón",
+                name="Zlatý Kupón",
                 text={
                     "Hrané {C:attention}Zlaté{} karty",
                     "vydělají {C:money}$#1#{} při bodování",
@@ -2388,7 +2388,7 @@ return {
                 },
             },
             c_grim={
-                name="Pochmůrnost",
+                name="Pochmurnost",
                 text={
                     "Zničí {C:attention}1{} náhodnou",
                     "kartu v ruce,",
@@ -2720,7 +2720,7 @@ return {
         },
         Tarot={
             c_chariot={
-                name="Kočár",
+                name="Vůz",
                 text={
                     "Vylepší {C:attention}#1#{} vybranou",
                     "kartu na {C:attention}Ocelovou Kartu",
@@ -2824,7 +2824,7 @@ return {
                 },
             },
             c_moon={
-                name="Luna",
+                name="Měsíc",
                 text={
                     "Promění až",
                     "{C:attention}#1#{} vybrané karty",
@@ -3796,15 +3796,15 @@ return {
         poker_hands={
             ["Five of a Kind"]="Pětice",
             Flush="Barva",
-            ["Flush Five"]="Pětice v Barvě",
-            ["Flush House"]="Full House v Barvě",
+            ["Flush Five"]="Čistá Pětice",
+            ["Flush House"]="Čistý Full House",
             ["Four of a Kind"]="Čtveřice",
             ["Full House"]="Full House",
             ["High Card"]="Nejvyšší Karta",
             ["Pair"]="Pár",
             ["Royal Flush"]="Královská Postupka",
             Straight="Postupka",
-            ["Straight Flush"]="Postupka v Barvě",
+            ["Straight Flush"]="Čistá Postupka",
             ["Three of a Kind"]="Trojice",
             ["Two Pair"]="Dva Páry",
         },
