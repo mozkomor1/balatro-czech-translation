@@ -8,7 +8,8 @@ Jestli najdete chyby nebo vás napadá lepší překlad. Kontaktujte mě na Disc
 4. Stáhněte i samotný překlad zde na téhle stránce (napravo **releases** a stáhněte nejnovější verzi)
 5. Přejděte na `C:\Users\<uživatel>\AppData\Roaming\Balatro` *(Stačí zmáčknout WIN+R vložit %appdata% a pak enter)* a do složky Mods vložte **extrahované** Steamodded i překlad
 
-(je důležité správně soubory extrahovat a vložit, můžete se vést dle videa níže)
+Je důležité správně soubory extrahovat a vložit. Můžete se vést dle videa níže.
 
-![hippo]((https://i.imgur.com/UpFcRta.gif))
+![guide](https://github.com/user-attachments/assets/4ab6c46c-b575-4226-9f9c-a5eba066011d)
+
 5. Zapněte hru a vpravo dole vyberte češtinu
